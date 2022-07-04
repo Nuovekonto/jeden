@@ -1,6 +1,6 @@
 {
     "name": "Subscribe",
-    "description": "Deploy YouTube on Heroku.",
+    "description": "Deploy Heroku.",
     "keywords": ["Subscribe"],
     "env": {
         "ID": {
