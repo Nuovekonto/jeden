@@ -17,6 +17,6 @@
         }
     },
     "website": "https://www.youtube.com/channel/UCx7oGUv3_4llCmORybfUsuw",
-    "repository": "https://github.com/italia/spid-saml-check",
+    "repository": "https://github.com/italia/spid-saml-check/tree/master/spid-validator",
     "stack": "container"
 }
